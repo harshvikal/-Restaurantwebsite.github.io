@@ -8,7 +8,7 @@
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://nat-gourmet-restaurant.vercel.app/">Live Preview</a>   
+      
     
   </p>
 </div>
@@ -31,22 +31,3 @@ This is an example of how you may give instructions on setting up your project l
 ### Prerequisites
 You need to install [nodejs](https://nodejs.org/en/)
 
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/DevilKo0l/gourmet-restaurant-web.git
-   ```
-2. Install npm in gourmet-restaurant-web folder
-   ```
-   npm install
-   ```
-3. Run the project
-   ```
-   npm start
-   ```
-   Runs the app in the development mode.\
-   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-   The page will reload when you make changes.\
-   You may also see any lint errors in the console.
