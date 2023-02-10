@@ -24,10 +24,14 @@ The technologies I use in this project inclues:
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 You need to install [nodejs](https://nodejs.org/en/)
+
+http://localhost:3001/
 
