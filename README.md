@@ -1,9 +1,9 @@
 <div align="center"> 
 
-  <h3 align="center">Gourmet Restaurant Website</h3>
+  <h3 align="center"> Restaurant Website</h3>
 
   <p align="center">
-    Gourmet is a fine dining restaurant
+    TAJ is a fine dining restaurant
     <br />
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
