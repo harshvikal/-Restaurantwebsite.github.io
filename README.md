@@ -9,7 +9,6 @@
     <br />
     <br />
       
-    <a href="#"><strong> http://localhost:3001/ »</strong></a>
   </p>
 </div>
 
@@ -33,5 +32,5 @@ This is an example of how you may give instructions on setting up your project l
 ### Prerequisites
 You need to install [nodejs](https://nodejs.org/en/)
 
-http://localhost:3001/
+import local host (http://localhost:3001/)
 
